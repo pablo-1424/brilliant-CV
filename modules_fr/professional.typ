@@ -14,10 +14,10 @@
 )
 
 #cvEntry(
-    title: [Analyste de Données],
-    society: [ABC Company],
-    date: [2017 - 2020],
-    location: [New York, NY],
+    title: [Civiliste],
+    society: [État du Valais, SEN],
+    date: [05.2024 - 11.2024],
+    location: [Sion],
     description: list(
       [Analyser de grands ensembles de données à l'aide de SQL et Python, collaborer avec des équipes interfonctionnelles pour identifier des insights métier],
       [Créer des visualisations de données et des tableaux de bord à l'aide de Tableau, développer et maintenir des pipelines de données à l'aide d'AWS],
@@ -25,10 +25,10 @@
 )
 
 #cvEntry(
-    title: [Stagiaire en Analyse de Données],
-    society: [PQR Corporation],
-    date: [été 2017],
-    location: [Chicago, IL],
+    title: [Civiliste],
+    society: [EPFL],
+    date: [11.2024 - 05.2024],
+    location: [Sion],
     description: list(
       [Aider à la préparation, au traitement et à l'analyse de données à l'aide de Python et Excel, participer aux réunions d'équipe et contribuer à la planification et à l'exécution de projets],
       [Développer des visualisations et des rapports de données pour communiquer des insights aux parties prenantes, collaborer avec d'autres stagiaires et membres de l'équipe pour mener à bien les projets dans les délais impartis et avec une grande qualité],

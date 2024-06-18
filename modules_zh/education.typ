@@ -15,9 +15,9 @@
 )
 
 #cvEntry(
-    title: [计算机科学学士],
+    title: [Automaticien],
     society: [加利福尼亚大学洛杉矶分校],
-    date: [2014 - 2018],
+    date: [2015 - 2019],
     location: [美国],
     logo: "../src/logos/ucla.png",
     description: list(

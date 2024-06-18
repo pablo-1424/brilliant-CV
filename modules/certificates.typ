@@ -16,6 +16,6 @@
 
 #cvHonor(
   date: [],
-  title: [SQL Fundamentals Track],
+  title: [apprentissage],
   issuer: [Datacamp]
 )
